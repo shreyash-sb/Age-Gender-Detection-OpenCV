@@ -142,7 +142,3 @@ Age: 25-32 Years
 The predicted age is an approximate age range and may vary depending on image quality, lighting conditions, facial expressions, pose, and other environmental factors.
 
 ---
-
-## License
-
-This project is intended for educational and learning purposes.
